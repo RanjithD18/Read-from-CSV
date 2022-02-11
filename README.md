@@ -25,5 +25,5 @@ print("Colunm",len(df.axes[0]))
 print("Row",len(df.axes[1]))
 ~~~
 ## OUTPUT:
-
+![output](https://github.com/RanjithD18/Read-from-CSV/blob/main/Screenshot%20(1).png)
 ## RESULT:
