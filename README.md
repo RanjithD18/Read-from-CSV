@@ -16,6 +16,7 @@
 Developed By:Ranjith D
 Register no.:21500662
 ~~~
+~~~
 import pandas as pd
 df=pd.read_csv('nba.csv')
 print(df.head(10))
